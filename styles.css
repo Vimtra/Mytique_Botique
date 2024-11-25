@@ -182,6 +182,10 @@ header{
 .gallery{
     background:#2f3726;
 }
+.gallery h2{
+    font-size: 50px;
+    font-weight: 700;
+}
 .gallery img {
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     height: 300px;
